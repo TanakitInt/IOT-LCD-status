@@ -1,2 +1,7 @@
 # IOT-LCD-status
-Display an LCD status on the web.
+IOT project -Get data from Arduino and display on the Web
+
+(No detail avaliable, yet)  
+(Under development)
+
+XD
